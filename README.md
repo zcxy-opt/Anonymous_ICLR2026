@@ -1,4 +1,4 @@
-This repository is the official implementation of [An Approximate Branch-and-Reduce Method for Training Deep Decision Trees]
+This repository is the official implementation of [An Approximate Bilevel Branch-and-Reduce Method for Training Deep Decision Trees]
 
 ## Requirements
 * Julia v1.11.2
