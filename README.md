@@ -2,7 +2,7 @@ This repository is the official implementation of [A Moving-Horizon Approximate 
 
 The main loop operates as follows:
  - Find the midpoint and evaluate it to obtain the upper bound.
- - Reduce a circular range using Lemma 3.3 to obtain two subsets.
+ - Reduce a circular range using Lemma 3.2 to obtain two subsets.
  - Recursively apply the process to these subsets.
 
 During evaluation, subtrees of depth are solved recursively and then approximated. Since the approximated method is not optimal, for a trained tree, each node (except the root) can be updated. Therefore, we reoptimize each subtree rooted at these nodes to improve training accuracy.
