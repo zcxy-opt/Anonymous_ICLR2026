@@ -1,4 +1,4 @@
-This repository is the official implementation of [A Moving-Horizon Approximate Branch-and-Reduce Method for Training Deep Classification Trees]
+This repository is the official implementation of [Beyond Greedy: Towards Optimal Deep Classification Trees]
 
 The main loop operates as follows:
  - Find the midpoint and evaluate it to obtain the upper bound.
