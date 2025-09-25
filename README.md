@@ -43,13 +43,21 @@ In the code file, the original Branch-and-Bound method is implemented in each_no
 All small datasets (59 in total) are available in the folder. 
 In the paper, we select 51 datasets from these 59 datasets because some algorithms fail to complete within the time limit.
 The excluded datasets include:
+
 26 ***Indian-liver-patient***
+
 33 ***Optical-recognition***
+
 37 ***Qsar-biodegradation***
+
 41 ***Spambase***
+
 45 ***Statlog-project-landsat-satellite***
+
 57 ***Statloglansat***
+
 58 ***Pageblock***
+
 59 ***Pendigits***
 
 
