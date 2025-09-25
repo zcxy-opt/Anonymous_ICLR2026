@@ -1,4 +1,4 @@
-This repository is the official implementation of [Beyond Greedy: Towards Optimal Deep Classification Trees]
+This repository provides the official implementation of [*Beyond Greedy: Towards Optimal Deep Classification Trees*]
 
 The main loop operates as follows:
  - Find the midpoint and evaluate it to obtain the upper bound.
